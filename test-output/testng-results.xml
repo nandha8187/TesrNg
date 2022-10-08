@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-07T20:37:48 GMT-07:00" name="Default suite" finished-at="2022-10-07T20:37:48 GMT-07:00" duration-ms="256">
+    <groups>
+    </groups>
+    <test started-at="2022-10-07T20:37:48 GMT-07:00" name="Default test" finished-at="2022-10-07T20:37:48 GMT-07:00" duration-ms="256">
+      <class name="testNG.Data_Provider">
+        <test-method signature="adactin_Runner(java.lang.String,int)[pri:0, instance:testNG.Data_Provider@1613674b]" started-at="2022-10-07T20:37:48 GMT-07:00" name="adactin_Runner" data-provider="test_Data" finished-at="2022-10-07T20:37:48 GMT-07:00" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[starc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adactin_Runner -->
+        <test-method signature="adactin_Runner(java.lang.String,int)[pri:0, instance:testNG.Data_Provider@1613674b]" started-at="2022-10-07T20:37:48 GMT-07:00" name="adactin_Runner" data-provider="test_Data" finished-at="2022-10-07T20:37:48 GMT-07:00" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adactin_Runner -->
+        <test-method signature="adactin_Runner(java.lang.String,int)[pri:0, instance:testNG.Data_Provider@1613674b]" started-at="2022-10-07T20:37:48 GMT-07:00" name="adactin_Runner" data-provider="test_Data" finished-at="2022-10-07T20:37:48 GMT-07:00" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Watson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[546]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adactin_Runner -->
+        <test-method signature="aoutomation_Runner(java.lang.String,int)[pri:0, instance:testNG.Data_Provider@1613674b]" started-at="2022-10-07T20:37:48 GMT-07:00" name="aoutomation_Runner" data-provider="test_Data" finished-at="2022-10-07T20:37:48 GMT-07:00" duration-ms="32" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[starc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aoutomation_Runner -->
+        <test-method signature="aoutomation_Runner(java.lang.String,int)[pri:0, instance:testNG.Data_Provider@1613674b]" started-at="2022-10-07T20:37:48 GMT-07:00" name="aoutomation_Runner" data-provider="test_Data" finished-at="2022-10-07T20:37:48 GMT-07:00" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aoutomation_Runner -->
+        <test-method signature="aoutomation_Runner(java.lang.String,int)[pri:0, instance:testNG.Data_Provider@1613674b]" started-at="2022-10-07T20:37:48 GMT-07:00" name="aoutomation_Runner" data-provider="test_Data" finished-at="2022-10-07T20:37:48 GMT-07:00" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Watson]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[546]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aoutomation_Runner -->
+      </class> <!-- testNG.Data_Provider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
